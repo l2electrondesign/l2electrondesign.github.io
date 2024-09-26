@@ -1,0 +1,56 @@
+de:
+  entries:
+    - title: Über uns
+      entries:
+        - title: 2021 gegründet von
+          entries:
+            - title: Felix Linse, Elektroniker für Geräte und Systeme
+            - title: Tim Lauber, M.Sc. Elektrotechnik
+        - title: Ansässig in Aachen
+        - title: github
+          url: https://github.com/l2electrondesign
+        - title: mail
+          url: mailto:kontakt@l2electrondesign.de
+    - title: Leistungen
+      entries:
+        - title: Prototypenbau
+          url: /prototypenbau
+        - title: Kleinserienfertigung
+          url: /kleinserienfertigung
+        - title: Rapid prototyping
+    - title: Bisherige und aktuelle Projekte
+      entries:
+        - title: Tannenbaum
+          url: https://github.com/l2electrondesign/ChristmasTree
+        - title: Platinenbestückung für AISLER
+          url: https://aisler.net/
+    - title: Impressum
+      url: /impressum
+en:
+  entries:
+    - title: About us
+      entries:
+        - title: Founded in 2021 by
+          entries:
+            - title: Felix Linse, Electronics technician for devices and systems
+            - title: Tim Lauber, M.Sc. Electrical engineering
+        - title: Based in Aachen
+        - title: github
+          url: https://github.com/l2electrondesign
+        - title: mail
+          url: mailto:kontakt@l2electrondesign.de
+    - title: Leistungen
+      entries:
+        - title: Prototype construction
+          url: /prototype
+        - title: Small batch production
+          url: /smallbatch
+        - title: Rapid prototyping
+    - title: Past and current projects
+      entries:
+        - title: Christmas Tree
+          url: https://github.com/l2electrondesign/ChristmasTree
+        - title: PCB Assembly for AISLER
+          url: https://aisler.net/
+    - title: Legal Notice
+      url: /legal

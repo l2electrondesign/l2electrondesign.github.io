@@ -1,0 +1,34 @@
+title: L2 Electron Design
+email: kontakt@l2electrondesign.de
+description: >- # this means to ignore newlines until "baseurl:"
+  Prototype and small batch electronics
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  l2electrondesign
+author: Tim Lauber
+
+favicon: favicon.png
+goat_counter: l2goat
+
+# Build settings
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+  
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+languages:
+  - de
+  - en
+
+default_language: de

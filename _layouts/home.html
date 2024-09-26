@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  {% if site.theme_config.show_description == true %}
+    <p>{{ site.data.lang.description[page.lang] }}</p>
+  {% endif %}
+</header>
+
+{% assign collection_lang = site.data.menu[page.lang] %}
+{% include menu_item.html collection=collection_lang.entries %}
+
+<ul>
+  <li>
+  {% for lang in site.languages %}
+    {% if lang == site.default_language %}
+      <a href="{{ site.url }}">{{ site.data.lang.lang_display_name[lang] }}</a>
+     {% else %}
+      / <a href="{{site.url}}/{{ lang }}">{{ site.data.lang.lang_display_name[lang] }}</a>
+    {% endif %}
+  {% endfor %}
+  </li>
+</ul>
