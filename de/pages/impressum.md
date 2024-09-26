@@ -2,6 +2,7 @@
 layout: page
 permalink: /impressum
 lang: de
+title: Impressum
 ---
 ## Lauber & Linse GbR
 

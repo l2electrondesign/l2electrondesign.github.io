@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /prototypenbau
+title: Prototypenbau
 ---
-
-# Prototypenbau
 
 ![](/assets/img/ScreenshotKiCAD.png "KiCAD layout")
 Grundlage elektronischer Baugruppen ist die Leiterplatte. Wir haben jahrelange Erfahrung in der Entwicklung und Konzeptionierung von PCBs. Dabei sind sowohl [eigene](https://www.tindie.com/products/l2electron/led-christmastree-or-das-tannenbaumchen/) Produkte als auch Entwicklungen im Auftrag entstanden. 

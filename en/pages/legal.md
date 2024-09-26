@@ -2,6 +2,7 @@
 layout: page
 permalink: /legal
 lang: en
+title: Legal
 ---
 ## Lauber & Linse GbR
 

@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /kleinserienfertigung
+title: Kleinserienfertigung
 ---
-
-# Kleinserienfertigung
 
 Wir sind Ihr Partner, wenn es um die Elektronikfertigung im kleinen bis mittleren Maßstab geht. Hier setzen wir auf viel Erfahrung, die wir in Zusammenarbeit mit unseren bisherigen Kunden gesammelt haben.
 
