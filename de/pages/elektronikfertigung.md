@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /elektronikfertigung
+lang: de
 title: Elektronikfertigung
 ---
 

@@ -1,1 +1,5 @@
-<a href="{{ page.lang | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+{% if page.lang == site.default_language %}
+  <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+ {% else %}
+   <a href="{{ page.lang | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+{% endif %}

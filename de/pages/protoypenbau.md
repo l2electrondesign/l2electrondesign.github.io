@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /prototypenbau
+lang: de
 title: Prototypenbau
 ---
 
