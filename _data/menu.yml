@@ -15,9 +15,8 @@ de:
       entries:
         - title: Prototypenbau
           url: /prototypenbau
-        - title: Kleinserienfertigung
-          url: /kleinserienfertigung
-        - title: Rapid prototyping
+        - title: Fertigung Elektronischer Baugruppen
+          url: /elektronikfertigung
     - title: Bisherige und aktuelle Projekte
       entries:
         - title: Tannenbaum
@@ -38,14 +37,13 @@ en:
         - title: github
           url: https://github.com/l2electrondesign
         - title: mail
-          url: mailto:kontakt@l2electrondesign.de
+          url: mailto:contact@l2electrondesign.de
     - title: Services
       entries:
         - title: Prototype construction
           url: /prototype
-        - title: Small batch production
-          url: /smallbatch
-        - title: Rapid prototyping
+        - title: Production of Electronic Assemblies
+          url: /electronicsproduction
     - title: Past and current projects
       entries:
         - title: Christmas Tree
