@@ -28,5 +28,9 @@ Wir sind ein kleines bis mittelgroßes Elektronikunternehmen, das sich der Liefe
     - Die Sicherstellung eines hohen Qualitätsstandards in allen unseren Prozessen ist für uns von größter Bedeutung. Wir prüfen jede Baugruppe, bevor sie unser Werk verlässt.
     - Je nach Kundenwunsch ist auch eine elektrische Prüfung möglich.
 
+## Klienten
+- Wir haben Baugruppen für viele verschiedene Kunden fertiggestellt, einschließlich kleiner Unternehmen und Universitäten.
+- Wir sind ein wichtiger Platinenbestücker für [AISLER](https://aisler.net/).
+
 ## Zusätzliche Dienstleistungen
 Wenn Sie weitere Anforderungen an den Herstellungsprozess elektronischer Baugruppen haben, sind wir offen für Gespräche. Aufgrund unserer flexiblen und agilen Prozesse sind wir oft in der Lage, die Bedürfnisse unserer Kunden in verschiedenen Anwendungsbereichen zu erfüllen. Nehmen Sie [Kontakt](mailto:contact@l2electrondesign.de) mit uns auf!

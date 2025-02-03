@@ -13,16 +13,14 @@ de:
           url: mailto:kontakt@l2electrondesign.de
     - title: Leistungen
       entries:
-        - title: Prototypenbau
+        - title: Prototyp Design und Konstruktion
           url: /prototypenbau
         - title: Fertigung Elektronischer Baugruppen
           url: /elektronikfertigung
-    - title: Bisherige und aktuelle Projekte
+    - title: Archiv
       entries:
         - title: Tannenbaum
           url: https://github.com/l2electrondesign/ChristmasTree
-        - title: Platinenbestückung für AISLER
-          url: https://aisler.net/
     - title: Impressum
       url: /impressum
 en:
@@ -33,22 +31,20 @@ en:
           entries:
             - title: Felix Linse, Electronics technician for devices and systems
             - title: Tim Lauber, M.Sc. Electrical engineering
-        - title: Based in Aachen
+        - title: Based in Aachen, Germany
         - title: github
           url: https://github.com/l2electrondesign
         - title: mail
           url: mailto:contact@l2electrondesign.de
     - title: Services
       entries:
-        - title: Prototype construction
+        - title: Protoype Design and Construction
           url: /prototype
         - title: Production of Electronic Assemblies
           url: /electronicsproduction
-    - title: Past and current projects
+    - title: Archive
       entries:
         - title: Christmas Tree
           url: https://github.com/l2electrondesign/ChristmasTree
-        - title: PCB Assembly for AISLER
-          url: https://aisler.net/
     - title: Legal Notice
       url: /legal
