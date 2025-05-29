@@ -8,6 +8,8 @@ title: Legal
 
 Address: Monheimsallee 29, 52062 Aachen, Germany
 
+Workshop: LabAix, Lukasstraße 1, 52070 Aachen, Germany
+
 Partner: Tim Lauber, Felix Linse
 
 Email: kontakt@l2electrondesign.de

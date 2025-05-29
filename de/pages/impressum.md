@@ -8,6 +8,8 @@ title: Impressum
 
 Anschrift: Monheimsallee 29, 52062 Aachen, Deutschland
 
+Produktion/Werkstatt: LabAix, Lukasstraße 1, 52070 Aachen, Deutschland
+
 Gesellschafter: Tim Lauber, Felix Linse
 
 Email: kontakt@l2electrondesign.de
