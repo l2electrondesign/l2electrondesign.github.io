@@ -5,7 +5,7 @@ lang: de
 title: Elektronikfertigung
 ---
 
-Wir sind ein kleines bis mittelgroßes Elektronikunternehmen, das sich der Lieferung von hochwertigen Produkten und außergewöhnlichem Service in der Elektronikindustrie verschrieben hat. Wir verfügen über Fachwissen in der Montage, der kundenspezifischen Anpassung und dem Vertrieb verschiedener elektronischer Komponenten und damit verbundener Lösungen, die auf spezifische Kundenbedürfnisse zugeschnitten sind.
+Wir sind ein kleines Elektronikunternehmen, das sich der Lieferung von hochwertigen Produkten und außergewöhnlichem Service in der Elektronikindustrie verschrieben hat. Wir verfügen über Fachwissen in der Montage, der kundenspezifischen Anpassung und dem Vertrieb verschiedener elektronischer Komponenten und damit verbundener Lösungen, die auf spezifische Kundenbedürfnisse zugeschnitten sind.
 
 ### Wichtigste Dienstleistungen
 1. ### Fortschrittliche Manuelle Montage
