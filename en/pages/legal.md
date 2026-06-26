@@ -38,7 +38,9 @@ The Data Protection Officer of the controller is:
 
 Tim Lauber
 
-Augustastraße 82
+L2 Electron Design
+
+Lukasstraße 1
 
 52070 Aachen
 

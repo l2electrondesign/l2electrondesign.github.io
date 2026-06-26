@@ -38,7 +38,9 @@ Der Datenschutzbeauftragte des Verantwortlichen ist:
 
 Tim Lauber
 
-Augustastraße 82
+L2 Electron Design
+
+Lukasstraße 1
 
 52070 Aachen
 
