@@ -23,9 +23,9 @@ The controller within the meaning of the General Data Protection Regulation and 
 
 Lauber & Linse GbR
 
-Moheimsallee 29
+Augustastraße 82
 
-52062 Aachen
+52070 Aachen
 
 Germany
 
@@ -38,9 +38,9 @@ The Data Protection Officer of the controller is:
 
 Tim Lauber
 
-Moheimsallee 29
+Augustastraße 82
 
-52062 Aachen
+52070 Aachen
 
 Germany
 

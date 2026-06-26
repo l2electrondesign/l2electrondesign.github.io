@@ -23,9 +23,9 @@ Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationa
 
 Lauber & Linse GbR
 
-Moheimsallee 29
+Augustastraße 82
 
-52062 Aachen
+52070 Aachen
 
 Deutschland
 
@@ -38,9 +38,9 @@ Der Datenschutzbeauftragte des Verantwortlichen ist:
 
 Tim Lauber
 
-Moheimsallee 29
+Augustastraße 82
 
-52062 Aachen
+52070 Aachen
 
 Deutschland
 
