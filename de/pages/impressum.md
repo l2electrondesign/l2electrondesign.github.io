@@ -6,7 +6,7 @@ title: Impressum
 ---
 ## Lauber & Linse GbR
 
-Anschrift: Monheimsallee 29, 52062 Aachen, Deutschland
+Anschrift: Augustastraße 82, 52070 Aachen, Deutschland
 
 Produktion/Werkstatt: LabAix, Lukasstraße 1, 52070 Aachen, Deutschland
 

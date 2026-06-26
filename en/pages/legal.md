@@ -6,7 +6,7 @@ title: Legal
 ---
 ## Lauber & Linse GbR
 
-Address: Monheimsallee 29, 52062 Aachen, Germany
+Address: Augustastraße 82, 52070 Aachen, Germany
 
 Workshop: LabAix, Lukasstraße 1, 52070 Aachen, Germany
 
